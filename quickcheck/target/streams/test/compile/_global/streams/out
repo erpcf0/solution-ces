@@ -1,0 +1,38 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: C:\Users\ERLAND\Documents\CODIGO\SCALA\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala:38:31 -----[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m38 |[0m    checkBogus(quickcheck.test.Bogus2BinomialHeap())[0m
+[0m[[0m[31merror[0m] [0m[0m   |               [31m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |               value Bogus2BinomialHeap is not a member of quickcheck.test, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |               The following import might make progress towards fixing the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |                 import munit.Clue.generate[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: C:\Users\ERLAND\Documents\CODIGO\SCALA\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala:42:31 -----[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m42 |[0m    checkBogus(quickcheck.test.Bogus3BinomialHeap())[0m
+[0m[[0m[31merror[0m] [0m[0m   |               [31m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |               value Bogus3BinomialHeap is not a member of quickcheck.test, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |               The following import might make progress towards fixing the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |                 import munit.Clue.generate[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: C:\Users\ERLAND\Documents\CODIGO\SCALA\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala:46:31 -----[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m46 |[0m    checkBogus(quickcheck.test.Bogus4BinomialHeap())[0m
+[0m[[0m[31merror[0m] [0m[0m   |               [31m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |               value Bogus4BinomialHeap is not a member of quickcheck.test, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |               The following import might make progress towards fixing the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |                 import munit.Clue.generate[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: C:\Users\ERLAND\Documents\CODIGO\SCALA\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala:50:31 -----[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m50 |[0m    checkBogus(quickcheck.test.Bogus5BinomialHeap())[0m
+[0m[[0m[31merror[0m] [0m[0m   |               [31m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |               value Bogus5BinomialHeap is not a member of quickcheck.test, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |               The following import might make progress towards fixing the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |                 import munit.Clue.generate[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

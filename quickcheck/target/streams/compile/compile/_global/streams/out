@@ -1,0 +1,38 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: C:\Users\ERLAND\Documents\CODIGO\SCALA\quickcheck\src\main\scala\quickcheck\HeapProperties.scala:86:34 ------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m86 |[0m  property([31m"compare"[0m) = forAll { (heap1: [35mList[Node][0m, heap2: [35mList[Node][0m)[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                  [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                  Not found: heap1[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: C:\Users\ERLAND\Documents\CODIGO\SCALA\quickcheck\src\main\scala\quickcheck\HeapProperties.scala:86:53 ------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m86 |[0m  property([31m"compare"[0m) = forAll { (heap1: [35mList[Node][0m, heap2: [35mList[Node][0m)[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                     [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                     Not found: heap2[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: C:\Users\ERLAND\Documents\CODIGO\SCALA\quickcheck\src\main\scala\quickcheck\HeapProperties.scala:87:15 ------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m87 |[0m    [33mif[0m isEmpty(heap1) && isEmpty(heap2) [33mthen[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |               [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |               Not found: heap1[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: C:\Users\ERLAND\Documents\CODIGO\SCALA\quickcheck\src\main\scala\quickcheck\HeapProperties.scala:87:33 ------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m87 |[0m    [33mif[0m isEmpty(heap1) && isEmpty(heap2) [33mthen[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                 [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                 Not found: heap2[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: C:\Users\ERLAND\Documents\CODIGO\SCALA\quickcheck\src\main\scala\quickcheck\HeapProperties.scala:90:21 ------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m90 |[0m      deleteMin(meld(heap1, heap2)) == deleteMin(meld(heap2, heap1))[0m
+[0m[[0m[31merror[0m] [0m[0m   |                     [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                     Not found: heap1[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: C:\Users\ERLAND\Documents\CODIGO\SCALA\quickcheck\src\main\scala\quickcheck\HeapProperties.scala:90:28 ------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m90 |[0m      deleteMin(meld(heap1, heap2)) == deleteMin(meld(heap2, heap1))[0m
+[0m[[0m[31merror[0m] [0m[0m   |                            [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                            Not found: heap2[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: C:\Users\ERLAND\Documents\CODIGO\SCALA\quickcheck\src\main\scala\quickcheck\HeapProperties.scala:90:54 ------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m90 |[0m      deleteMin(meld(heap1, heap2)) == deleteMin(meld(heap2, heap1))[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                      [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                      Not found: heap2[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: C:\Users\ERLAND\Documents\CODIGO\SCALA\quickcheck\src\main\scala\quickcheck\HeapProperties.scala:90:61 ------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m90 |[0m      deleteMin(meld(heap1, heap2)) == deleteMin(meld(heap2, heap1))[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                             [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                             Not found: heap1[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- Error: C:\Users\ERLAND\Documents\CODIGO\SCALA\quickcheck\src\main\scala\quickcheck\HeapProperties.scala:91:3 ------------------------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m91 |[0m  }[0m
+[0m[[0m[31merror[0m] [0m[0m   |   [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |   no implicit argument of type Any => org.scalacheck.Prop was found for parameter p of [33mmethod[0m [35mforAll[0m in [33mobject[0m [35mProp[0m[0m
+[0m[[0m[31merror[0m] [0m[0m9 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m9 errors found[0m
